@@ -10,4 +10,4 @@
 
 ## Note
 
-- For kickstarter api scrapping set 'PITCH_CATEGORY' in 'core/config.py' (bydefault it is set to 'art')
+- For kickstarter api scrapping set 'PITCH_CATEGORY' in 'core/config.py' (by default it is set to 'art')
