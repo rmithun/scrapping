@@ -2,7 +2,7 @@
 # python imports
 import datetime
 
-from .db_connection import CROWD_SURF_COLLECTION
+from .db_connection import CROWD_CUBE_COLLECTION
 
 TODAY = datetime.datetime.today().date().strftime('%Y-%m-%d')
 

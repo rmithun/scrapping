@@ -6,7 +6,7 @@ CROWD_COLLECTION = "crowdcube"
 KICKSTART_COLLECTION = "kickstart"
 
 # pitch categories to fetch
-PITCH_CATEGORY = 'painting'
+PITCH_CATEGORY = 'art'
 
 # KICK-STARTER API URL
 API_URL = 'https://www.kickstarter.com/discover/advanced?&category_id={}&page={}'
